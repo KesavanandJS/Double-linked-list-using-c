@@ -1,6 +1,3 @@
-Here's the completed code for a doubly linked list with functions to add nodes at the beginning, middle, and end, as well as delete nodes from the beginning, middle, and end:
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
